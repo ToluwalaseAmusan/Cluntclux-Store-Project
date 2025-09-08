@@ -31,7 +31,7 @@ The project workflow covered:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](PowerBI/dashboard_screenshot1.png)
+![Dashboard Screenshot](cccc.png)
 
 ---
 
