@@ -28,4 +28,28 @@ The project workflow covered:
 
 ---
 
+---
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](PowerBI/dashboard_screenshot1.png)
+
+---
+
+## 📑 Report
+The full report with methodology, findings, and recommendations is available here:  
+👉 [Retail Sales Report (PDF)](Report/Retail_Sales_Report.pdf)
+
+---
+
+## 🚀 How to Use
+1. Download the cleaned dataset from the Data folder.  
+2. Run SQL scripts from the SQL folder to reproduce KPIs.  
+3. Open sales_dashboard.pbix in Power BI to explore the dashboard interactively.  
+4. Read the PDF report for business insights.  
+
+---
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/toluwalase-amusan-875566233)  
+- [Portfolio GitHub](https://github.com/) (More projects coming soon 🚀)
 
