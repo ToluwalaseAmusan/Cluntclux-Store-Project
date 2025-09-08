@@ -40,6 +40,22 @@ The full report with methodology, findings, and recommendations is available her
 👉 [Retail Sales Report (PDF)](Report/Retail_Sales_Report.pdf)
 
 ---
+## 🗄 SQL Analysis
+
+This project also includes an *SQL script* (SQL/retail_sales_analysis.sql) used to analyze the dataset.  
+It covers key business questions such as:  
+
+- ✅ Total sales amount & number of orders  
+- ✅ Total sales by product category  
+- ✅ Monthly sales trends (year-wise)  
+- ✅ Orders breakdown by shipping state  
+- ✅ Average order amount by sales channel  
+- ✅ Top 5 cities with highest sales  
+- ✅ Customer-based purchase trends (by gender & age category)  
+- ✅ B2B vs B2C sales performance  
+- ✅ Return rate by product category  
+
+These queries demonstrate my ability to *extract insights directly from raw data* before visualization in Power BI.
 
 ## 🚀 How to Use
 1. Download the cleaned dataset from the Data folder.  
