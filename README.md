@@ -34,12 +34,6 @@ The project workflow covered:
 ![Dashboard Screenshot](cccc.png)
 
 ---
-
-## 📑 Report
-The full report with methodology, findings, and recommendations is available here:  
-👉 [Retail Sales Report (PDF)](Report/Retail_Sales_Report.pdf)
-
----
 ## 🗄 SQL Analysis
 
 This project also includes an *SQL script* (SQL/retail_sales_analysis.sql) used to analyze the dataset.  
